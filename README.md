@@ -13,7 +13,7 @@ This **Operational Dashboard** provides a comprehensive overview of **manufactur
 * **Data Dictionary**: https://drive.google.com/file/d/1bwwsS3cRJYOg1cvNppc1K_8dQLELN16T/view
 
 ### 3. DASHBOARD
-### DATA MODELING
+### Data Modeling
 
 ![Relationship](https://github.com/user-attachments/assets/add473e0-144c-4d0a-b0d3-17b3c85217e0)
 
