@@ -13,6 +13,11 @@ This **Operational Dashboard** provides a comprehensive overview of **manufactur
 * **Data Dictionary**: https://drive.google.com/file/d/1bwwsS3cRJYOg1cvNppc1K_8dQLELN16T/view
 
 ### 3. DASHBOARD
+### DATA MODELING
+
+![Relationship](https://github.com/user-attachments/assets/add473e0-144c-4d0a-b0d3-17b3c85217e0)
+
+
 ### **View 1: Inventory Mangement**
 ![Inventory Mangement](https://github.com/user-attachments/assets/a2b15c33-3af3-4f83-8400-8bcda5f736d0)
 
