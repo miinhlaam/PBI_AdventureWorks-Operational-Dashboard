@@ -1,6 +1,9 @@
 # Manufacturing Operational Dashboard – AdventureWorks
 ### 1. INTRODUCTION
-This Operational Dashboard provides a comprehensive overview of manufacturing operations at AdventureWorks, focusing on efficiency, production output, and inventory management. It integrates key performance indicators (KPIs) such as machine downtime, production throughput, defect rates, and cost analysis, enabling stakeholders to monitor performance trends and optimize decision-making. With interactive visualizations and real-time insights, this dashboard enhances operational efficiency, reduces bottlenecks, and improves overall manufacturing productivity.
+This **Operational Dashboard** provides a comprehensive overview of **manufacturing operations** at AdventureWorks, focusing on efficiency, production output, and inventory management. 
+
+* It integrates key performance indicators (KPIs) such as machine downtime, production throughput, defect rates, and cost analysis, enabling stakeholders to **monitor performance trends and optimize decision-making**. 
+* With interactive visualizations and real-time insights, this dashboard **enhances operational efficiency, reduces bottlenecks, and improves overall manufacturing productivity**.
 
 ### 2. DATASET
    
